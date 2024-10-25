@@ -1,0 +1,27 @@
+[1;36m.[0m
+├── README.md
+├── next.config.ts
+├── package.json
+├── postcss.config.mjs
+├── [1;36mpublic[0m
+│   ├── file.svg
+│   ├── globe.svg
+│   ├── next.svg
+│   ├── vercel.svg
+│   └── window.svg
+├── [1;36msrc[0m
+│   ├── [1;36mbackend[0m
+│   └── [1;36mfrontend[0m
+│       ├── favicon.ico
+│       ├── [1;36mfonts[0m
+│       │   ├── GeistMonoVF.woff
+│       │   └── GeistVF.woff
+│       ├── globals.css
+│       ├── layout.tsx
+│       └── page.tsx
+├── tailwind.config.ts
+├── trees.txt
+├── tsconfig.json
+└── yarn.lock
+
+6 directories, 19 files
